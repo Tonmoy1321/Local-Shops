@@ -1,0 +1,183 @@
+{
+  "project_info": {
+    "project_number": "187509263016",
+    "firebase_url": "https://pocket-store-6e931.firebaseio.com",
+    "project_id": "pocket-store-6e931",
+    "storage_bucket": "pocket-store-6e931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187509263016:android:c1c30599dd3f180622d09d",
+        "android_client_info": {
+          "package_name": "com.example.customerqueue_module"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187509263016-0i5hto4p9k56r4rpka7e306aq30jcv2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.customerqueue_module",
+            "certificate_hash": "b1dd3bdb02a53e80c4c494c3bf3ab7b332b2a998"
+          }
+        },
+        {
+          "client_id": "187509263016-ukqne5khts5hv595ihjqdggal68thaaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQ2QRJItb75GlW5AieB51oDrugY-zyJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187509263016-ukqne5khts5hv595ihjqdggal68thaaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187509263016:android:f7a6ab2e3b9dd89122d09d",
+        "android_client_info": {
+          "package_name": "com.example.phonenumberverification_module"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187509263016-ggiubh85tqqjkeq7edpf6u09etolrvei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phonenumberverification_module",
+            "certificate_hash": "b1dd3bdb02a53e80c4c494c3bf3ab7b332b2a998"
+          }
+        },
+        {
+          "client_id": "187509263016-8tqkj9g1qdkfvv5g9ao99ljti1gbdatu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phonenumberverification_module",
+            "certificate_hash": "c58abf4ef71dfb534349b2d7c77a01ab26de47a8"
+          }
+        },
+        {
+          "client_id": "187509263016-ukqne5khts5hv595ihjqdggal68thaaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQ2QRJItb75GlW5AieB51oDrugY-zyJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187509263016-ukqne5khts5hv595ihjqdggal68thaaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187509263016:android:3f7bd525a6a0eb8822d09d",
+        "android_client_info": {
+          "package_name": "com.example.pocketstore_customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187509263016-2f6jdngdi4om8dmjl91528afjvjpu58g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pocketstore_customerapp",
+            "certificate_hash": "c58abf4ef71dfb534349b2d7c77a01ab26de47a8"
+          }
+        },
+        {
+          "client_id": "187509263016-vkpcncmb0b7e2rilqe5brmvu672l4pna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pocketstore_customerapp",
+            "certificate_hash": "b1dd3bdb02a53e80c4c494c3bf3ab7b332b2a998"
+          }
+        },
+        {
+          "client_id": "187509263016-ukqne5khts5hv595ihjqdggal68thaaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQ2QRJItb75GlW5AieB51oDrugY-zyJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187509263016-ukqne5khts5hv595ihjqdggal68thaaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187509263016:android:d4fdc6a9ef83a0f222d09d",
+        "android_client_info": {
+          "package_name": "com.example.pocketstore_shopownerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187509263016-hike67gtbepjgahghkoccu4kc112opjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pocketstore_shopownerapp",
+            "certificate_hash": "c58abf4ef71dfb534349b2d7c77a01ab26de47a8"
+          }
+        },
+        {
+          "client_id": "187509263016-ra13noq9vrf8o0bcnleme46v8v42ml1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pocketstore_shopownerapp",
+            "certificate_hash": "b1dd3bdb02a53e80c4c494c3bf3ab7b332b2a998"
+          }
+        },
+        {
+          "client_id": "187509263016-ukqne5khts5hv595ihjqdggal68thaaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQ2QRJItb75GlW5AieB51oDrugY-zyJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187509263016-ukqne5khts5hv595ihjqdggal68thaaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
